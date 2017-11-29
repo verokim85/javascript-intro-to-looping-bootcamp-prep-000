@@ -18,10 +18,10 @@ function whileLoop(number) {
   return 'done';
 }
 
-function doWhileLoop(array) {
-  return Math.random() >= 0.5
-}
-  do {
-    console.log(array)
-   }while (array.length > 0 && maybeTrue());
-  return array;
+// function doWhileLoop(array) {
+//   return Math.random() >= 0.5
+// }
+//   do {
+//     console.log(array)
+//    }while (array.length > 0 && maybeTrue());
+//   return array;
